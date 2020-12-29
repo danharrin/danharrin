@@ -2,11 +2,11 @@
 
 <p>
   <a href="https://twitter.com/danjharrin">
-    <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/danjharrin?style=for-the-badge&logo=twitter">
+    <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/danjharrin?style=for-the-badge&logo=twitter&color=blue">
   </a>
 
   <a href="https://github.com/sponsors/danharrin">
-    <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&style=for-the-badge&logo=github">
+    <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&style=for-the-badge&logo=github&color=pink">
   </a>
 </p>
 
