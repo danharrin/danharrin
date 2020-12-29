@@ -5,10 +5,6 @@
     <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/danjharrin?style=for-the-badge&logo=twitter">
   </a>
 
-  <a href="https://twitter.com/danjharrin">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/follow/danharrin?style=for-the-badge&logo=github">
-  </a>
-
   <a href="https://github.com/sponsors/danharrin">
     <img alt="GitHub Sponsors" src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&style=for-the-badge&logo=github">
   </a>
