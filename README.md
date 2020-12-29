@@ -2,7 +2,11 @@
 
 <p>
   <a href="https://twitter.com/danjharrin">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/danjharrin?style=for-the-badge&logo=twitter">
+    <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/danjharrin?style=for-the-badge&logo=twitter">
+  </a>
+
+  <a href="https://twitter.com/danjharrin">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/follow/danharrin?style=for-the-badge&logo=github">
   </a>
 
   <a href="https://github.com/sponsors/danharrin">
