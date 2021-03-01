@@ -15,6 +15,7 @@
 I am a full-stack Laravel developer, working heavily with the TALL stack.
 
 ### 📦 I'm currently working on...
+- [Filament](https://github.com/envault/envault), with [Ryan Scherler](https://github.com/ryanscherler), the elegant TALL stack admin panel for Laravel artisans.
 - [Envault](https://github.com/envault/envault), a tool for securely sharing .env credentials with your team.
 - The [TALL Preset](https://github.com/laravel-frontend-presets/tall) with [Liam Hammett](https://github.com/imliam) and [Ryan Chandler](https://github.com/ryangjchandler), which has now been used over 30,000 times by developers who need a jumpstart into their next TALL stack project.
 - [Squire](https://github.com/squirephp/squire), a library of static Eloquent models for common fixture data such as countries and currencies.
