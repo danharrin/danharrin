@@ -15,9 +15,7 @@
 I am a full-stack Laravel developer, working heavily with the TALL stack. I work for [Stagent](https://stagent.com) as Lead Developer, building an innovative new booking platform for artists in the music industry!
 
 ### 📦 I'm currently working on...
-- [Filament](https://github.com/laravel-filament/filament), the elegant TALL stack admin panel for Laravel artisans, with [Ryan Scherler](https://github.com/ryanscherler) and [Ryan Chandler](https://github.com/ryangjchandler).
-- [Envault](https://github.com/envault/envault), a tool for securely sharing .env credentials with your team.
+- [Filament](https://github.com/laravel-filament/filament), a collection TALL stack packages for Laravel artisans, with [Ryan Scherler](https://github.com/ryanscherler) and [Ryan Chandler](https://github.com/ryangjchandler).
 - The [TALL Preset](https://github.com/laravel-frontend-presets/tall) with [Liam Hammett](https://github.com/imliam) and [Ryan Chandler](https://github.com/ryangjchandler), which has now been used over 70,000 times by developers who need a jumpstart into their next TALL stack project.
 - [Squire](https://github.com/squirephp/squire), a library of static Eloquent models for common fixture data such as countries and currencies.
-- A tech podcast called [Undefined Variable](https://undefined-variable.transistor.fm), where we discuss topics that interest us and the community. [You can check it out here](https://undefined-variable.transistor.fm)!
-- [YouTube video tutorials](https://youtube.com/channel/UCXpwqLsgBnot6Qz9swdlbZA): my first explained how to create a custom select input with Alpine.js and Tailwind CSS.
+- [Envault](https://github.com/envault/envault), a tool for securely sharing .env credentials with your team.
