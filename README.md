@@ -2,7 +2,11 @@
 
 <p>
   <a href="https://twitter.com/danjharrin">
-    <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/danjharrin?style=for-the-badge&logo=twitter&color=00ACEE">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/danjharrin?style=for-the-badge&logo=twitter&color=00ACEE">
+  </a>
+  
+  <a rel="me" href="https://phpc.social/@danharrin">
+    <img alt="Mastodon" src="https://img.shields.io/static/v1?label=Mastodon&message=%E2%9D%A4&style=for-the-badge&logo=mastodon&color=9697FF">
   </a>
 
   <a href="https://github.com/sponsors/danharrin">
