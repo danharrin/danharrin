@@ -6,7 +6,7 @@
   </a>
   
   <a rel="me" href="https://phpc.social/@danharrin">
-    <img alt="Mastodon" src="https://img.shields.io/static/v1?label=Mastodon&message=%E2%9D%A4&style=for-the-badge&logo=mastodon&color=9697FF">
+    <img alt="Mastodon" src="https://img.shields.io/static/v1?label=Mastodon&message=phpc.social&style=for-the-badge&logo=mastodon&color=9697FF">
   </a>
 
   <a href="https://github.com/sponsors/danharrin">
