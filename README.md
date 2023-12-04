@@ -15,9 +15,3 @@
 </p>
 
 <a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=danharrin&show_icons=true" align="right" height="150" /></a>
-
-### 📦 I'm currently working on...
-- [Filament](https://filamentphp.com), a collection of beautiful full-stack components for Laravel.
-- The [TALL Preset](https://github.com/laravel-frontend-presets/tall) with [Liam Hammett](https://github.com/imliam) and [Ryan Chandler](https://github.com/ryangjchandler), which has now been used over 70,000 times by developers who need a jumpstart into their next TALL stack project.
-- [Squire](https://github.com/squirephp/squire), a library of static Eloquent models for common fixture data such as countries and currencies.
-- [Envault](https://github.com/envault/envault), a tool for securely sharing .env credentials with your team.
