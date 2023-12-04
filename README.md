@@ -14,4 +14,4 @@
   </a>
 </p>
 
-<a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=danharrin&show_icons=true" align="right" height="150" /></a>
+<a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=danharrin&show_icons=true" height="150" /></a>
